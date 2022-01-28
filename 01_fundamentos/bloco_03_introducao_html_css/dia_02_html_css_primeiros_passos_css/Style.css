@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(400, 450, 250);
+    font: size 16px;
+}
+
+h1 {
+    color: orange;
+    size: 65px;
+    font-family: sans-serif;
+    text-decoration: underline;
+    background-size: 100px;
+}
+
+p {
+    font: weight 600;
+    font-size: 3em;
+        font-size: 45px;
+}
+
+ul {
+    text-align: center;
+}
+
+.favorite {
+    background-color: rgb(121, 173, 197);
+    color: black;
+    font-style: italic;
+    line-height: 50px
+}
