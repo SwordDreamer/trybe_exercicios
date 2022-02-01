@@ -1,0 +1,23 @@
+.super-mario {
+    width: 200px;
+}
+
+.goomba {
+    width: 100px;
+}
+
+.baloon {
+    
+}
+
+.speach {
+    font-size: 25px;
+}
+
+.bowser {
+    width: 200px;
+}
+
+li:nth-child(n) {
+    color: rgb(94, 94, 26)
+}
